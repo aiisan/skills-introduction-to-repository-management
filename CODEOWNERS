@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @aiisan
+/src/backend/database.py      @aiisan
+/src/backend/routers/auth.py  @aiisan
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @aiisan
